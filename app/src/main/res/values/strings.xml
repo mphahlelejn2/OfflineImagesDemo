@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OfflineImagesDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_Item_List_Error">Loading Item List Error</string>
+    <string name="Error_loading_Item_Details">Error loading Item Details</string>
+    <string name="Error_loading_Item_List">Error Loading Item List</string>
+    <string name="Permission_denied">Permission denied</string>
+    <string name="Loading_data">Loading data</string>
+    <string name="fix_your_internet_connection">fix your internet connection</string>
+    <string name="click_here_to_read_more">Click here to read more...</string>
+</resources>
